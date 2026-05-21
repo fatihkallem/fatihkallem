@@ -1,3 +1,20 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1vou2fvrTPPlgOzwhSNgZvwWNKCZYD9-C/view?usp=drive_link" alt="Fatih KALLEM - Prof. Vibe Coding" width="100%">
+  <img src="https://raw.githubusercontent.com/fatihkallem/fatihkallem/main/github-banner.png" width="100%">
 </p>
+
+<h1 align="center">Hi 👋 I'm Fatih KALLEM</h1>
+
+<h3 align="center">
+AI • Education • Digital Systems • Future Building
+</h3>
+
+---
+
+### 🚀 About Me
+- 🤖 AI-powered education systems
+- 🌱 Sustainable digital initiatives
+- 💻 Web applications & automation
+- 🧠 Educational technologies
+
+### 🛠 Tech Stack
+PHP • JavaScript • MySQL • AI Tools • Supabase • Firebase
