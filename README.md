@@ -16,5 +16,4 @@ AI • Education • Digital Systems • Future Building
 - 💻 Web applications & automation
 - 🧠 Educational technologies
 
-### 🛠 Tech Stack
-PHP • JavaScript • MySQL • AI Tools • Supabase • Firebase
+### 🛠 Vibe Coder
