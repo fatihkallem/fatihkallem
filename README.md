@@ -10,7 +10,7 @@ AI • Education • Digital Systems • Future Building
 
 ---
 
-### 🚀 About Me
+### 🚀 Focus
 - 🤖 AI-powered education systems
 - 🌱 Sustainable digital initiatives
 - 💻 Web applications & automation
